@@ -1,0 +1,96 @@
+{
+  "4732": {
+    "name": "USS Co., Ltd.",
+    "short_name": "USS",
+    "japanese_name": "株式会社ユー・エス・エス",
+    "industry": "Used-vehicle auctions",
+    "description": "USS operates used-vehicle auctions that match dealers and other members through physical sites and remote bidding. It earns consignment fees, contract-completion fees and successful-bid fees. Group businesses also purchase and sell used vehicles and recycle vehicles and industrial equipment.",
+    "business_sources": [
+      "uss-auctions",
+      "uss-business"
+    ],
+    "context_sources": [
+      "uss-2024"
+    ],
+    "share_basis": "USS post-2024-04-01 2-for-1",
+    "split_factors": {
+      "USS post-2024-04-01 2-for-1": 1,
+      "USS pre-2024-04-01": 2
+    },
+    "share_note": "April 1, 2024 split, two shares for one. March 2022 and March 2023 EPS are divided by two and weighted-average shares multiplied by two. The March 2024 release already applies the split. Later current-year figures are already on this basis.",
+    "scenario_defaults": {
+      "Bear": [
+        -0.03,
+        0.31,
+        15,
+        "Illustrative. Lower auction throughput and weaker fee realization reduce revenue and margin. A lower multiple reflects weaker earnings durability."
+      ],
+      "Base": [
+        0.06,
+        0.36,
+        20,
+        "Illustrative. Moderate revenue growth and an attributable margin near recent results. Shares held at the selected annual weighted average. The multiple is an assumption."
+      ],
+      "Bull": [
+        0.1,
+        0.39,
+        25,
+        "Illustrative. Higher auction volume and better fee realization support margin. A higher assumed multiple tests greater confidence in fee earnings."
+      ]
+    },
+    "research_prompts": {
+      "thesis": "A dense auction network could support a durable fee business if listing volumes and completion rates hold as fees rise.",
+      "evidence": "Compare vehicle consignments, successful contracts, completion rates and fee revenue with the issuer’s operating disclosures. Check whether annual cash flow supports reported profit.",
+      "catalysts": "Track auction volumes and the impact of fee changes on both sides of the marketplace.",
+      "risks": "A tighter used-vehicle supply or dealer migration could reduce throughput. Recycling and vehicle resale add exposure to prices and mix.",
+      "invalidation": "Sustained declines in consignments and completion rates following fee increases, coupled with weaker operating margins, would weaken the network-pricing thesis."
+    }
+  },
+  "3064": {
+    "name": "MonotaRO Co., Ltd.",
+    "short_name": "MonotaRO",
+    "japanese_name": "株式会社MonotaRO",
+    "industry": "Industrial supplies distribution",
+    "description": "MonotaRO sells indirect materials online to businesses in manufacturing, construction and vehicle maintenance. Its assortment includes private-label and imported products. A broad catalog, inventory availability and tailored recommendations support repeat purchasing.",
+    "business_sources": [
+      "mono-business"
+    ],
+    "context_sources": [
+      "mono-2021",
+      "mono-2022-policy",
+      "mono-2022-correction"
+    ],
+    "share_basis": "MonotaRO post-2021-04-01 2-for-1",
+    "split_factors": {
+      "MonotaRO post-2021-04-01 2-for-1": 1
+    },
+    "share_note": "April 1, 2021 split, two shares for one. The December 2021 release already reflects the split in EPS and weighted-average shares. Later current-year figures are carried on the same basis.",
+    "scenario_defaults": {
+      "Bear": [
+        0.06,
+        0.075,
+        20,
+        "Illustrative. Slower order growth and higher fulfillment costs pressure the attributable margin. The multiple is lower to test weaker growth durability."
+      ],
+      "Base": [
+        0.13,
+        0.095,
+        30,
+        "Illustrative. Continued order growth with an attributable margin near recent results. Shares held at the selected annual weighted average. The multiple is an assumption."
+      ],
+      "Bull": [
+        0.18,
+        0.11,
+        40,
+        "Illustrative. Faster sales growth and better fulfillment efficiency lift attributable margin. A higher multiple tests greater confidence in those gains."
+      ]
+    },
+    "research_prompts": {
+      "thesis": "Broad product availability and convenient repeat ordering could support growth, with fulfillment scale helping preserve incremental profitability.",
+      "evidence": "Compare sales growth, operating margins and cash conversion. Follow issuer disclosures on repeat customers and enterprise procurement adoption.",
+      "catalysts": "Monitor enterprise customer connections, order growth and distribution-center utilization.",
+      "risks": "Higher delivery or labor costs, weak customer retention, or prolonged investment in fulfillment could reduce cash conversion.",
+      "invalidation": "A persistent slowdown in sales and repeat purchasing alongside declining margins and cash flow after capital expenditure would weaken the scale thesis."
+    }
+  }
+}

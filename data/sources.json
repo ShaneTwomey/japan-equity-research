@@ -1,0 +1,137 @@
+{
+  "uss-auctions": {
+    "code": "4732",
+    "title": "Consolidated Results of Operations, Q2 FY2026 (FY3/2027)",
+    "url": "https://www.ussnet.co.jp/en/ir/item/explanation2027.3_2q.pdf",
+    "published": "2026-11-11",
+    "retrieved": "2026-11-17",
+    "locator": "PDF p. 33, Business Models for USS",
+    "note": "Publication date per the issuer's 2026 IR news archive. Used for business description only."
+  },
+  "uss-business": {
+    "code": "4732",
+    "title": "USS Business",
+    "url": "https://www.ussnet.co.jp/en/ir/individual/business/index.html",
+    "published": "",
+    "retrieved": "2026-11-17",
+    "locator": "The sections on the three main businesses",
+    "note": "Undated issuer IR page."
+  },
+  "mono-business": {
+    "code": "3064",
+    "title": "Our Business",
+    "url": "https://corp.monotaro.com/en/ir/shareholders/shareholders_01.html",
+    "published": "",
+    "retrieved": "2026-11-17",
+    "locator": "MonotaRO’s Business and The MonotaRO Business Model",
+    "note": "Undated issuer IR page."
+  },
+  "mono-2022-correction": {
+    "code": "3064",
+    "title": "(Updated) Consolidated Financial Results for the Fiscal Year Ended December 31, 2022",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/Updateflashreort20221231.pdf",
+    "published": "2023-02-03",
+    "retrieved": "2026-11-17",
+    "locator": "PDF pp. 1–2, corrections to financing cash flows and standalone income statement",
+    "note": "The correction does not change the consolidated figures used here."
+  },
+  "mono-2022-policy": {
+    "code": "3064",
+    "title": "株式会社MonotaRO 2022年12月期決算短信〔日本基準〕（連結）",
+    "url": "https://corp.monotaro.com/ir/upload_file/m005-m005_02/3064_20230202599174_P01_.pdf",
+    "published": "2023-02-02",
+    "retrieved": "2026-11-17",
+    "locator": "PDF p. 12 (printed p. 10), 会計方針の変更",
+    "note": "The issuer reports that applying the revenue recognition standard had no impact on profit or loss."
+  },
+  "uss-2022": {
+    "code": "4732",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended March 31, 2022",
+    "url": "https://www.ussnet.co.jp/en/ir/item/2022_4q.pdf",
+    "published": "2022-05-10",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "uss-2023": {
+    "code": "4732",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended March 31, 2023",
+    "url": "https://www.ussnet.co.jp/en/ir/item/2023_4q.pdf",
+    "published": "2023-05-09",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "uss-2024": {
+    "code": "4732",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended March 31, 2024",
+    "url": "https://www.ussnet.co.jp/en/ir/item/2024_4q.pdf",
+    "published": "2024-05-08",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "uss-2025": {
+    "code": "4732",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended March 31, 2025",
+    "url": "https://www.ussnet.co.jp/en/ir/item/2025_4q.pdf",
+    "published": "2025-05-13",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "uss-2026": {
+    "code": "4732",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended March 31, 2026",
+    "url": "https://www.ussnet.co.jp/en/ir/item/2026_4q.pdf",
+    "published": "2026-05-12",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "mono-2021": {
+    "code": "3064",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended December 31, 2021",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/Quarter4_FY2021_2.pdf",
+    "published": "2022-02-03",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "mono-2022": {
+    "code": "3064",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended December 31, 2022",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/flash_report_v9.pdf",
+    "published": "2023-02-02",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "mono-2023": {
+    "code": "3064",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended December 31, 2023",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/20240202.pdf",
+    "published": "2024-02-02",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "mono-2024": {
+    "code": "3064",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended December 31, 2024",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/20250131tansinENG.pdf",
+    "published": "2025-01-31",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  },
+  "mono-2025": {
+    "code": "3064",
+    "title": "Consolidated Financial Results for the Fiscal Year Ended December 31, 2025",
+    "url": "https://corp.monotaro.com/en/ir/upload_file/m005-m005_02/FlashReport_Quarter_4_FY2025_MonotaRO.pdf",
+    "published": "2026-02-03",
+    "retrieved": "2026-11-17",
+    "locator": "Current-year column of the annual release.",
+    "note": ""
+  }
+}
